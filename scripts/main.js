@@ -30,8 +30,8 @@ const quizzes = {
         buttonContainerId: "answer-buttons20",
         question: "What is a microaggression?",
         answers: [
-            {text: "Overt racists statements directed at marginalised groups", correct: false},
-            {text: "Actions and/or statements that can be intentional or unintentional that ultimately show discrimination and bias", correct: true},
+            {text: "Direct racist comments aimed at marginalised groups", correct: false},
+            {text: "Behaviors or statements reflecting bias, whether intentional or not.", correct: true},
         ],
         feedback: "Microaggressions are sometimes unintentional and often subtle"
     },

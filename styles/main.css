@@ -635,6 +635,15 @@ figcaption {
  
 }
 
+
+.top-padding-20 {
+    padding-top: 0px;
+}
+
+.top-padding-100 {
+    padding-top: 50px;
+}
+
   .video-wrapper-part {
         height: 100%;
         margin: 0;
